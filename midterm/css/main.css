@@ -35,4 +35,33 @@
     vertical-align: top;
     margin-right: 20px;
   }
+  nav {
+    margin-right: 2rem;
+  }
   
+  ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-right: 1rem;
+  }
+  
+  .box {
+    flex: 1;
+    height: 75px;
+    background-color: #aad4cf;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 75px;
+  }
+  
+  .container {
+    display: flex;
+    height: 150px;
+    margin: 0 auto;
+   
+}
