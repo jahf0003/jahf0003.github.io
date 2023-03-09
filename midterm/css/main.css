@@ -15,12 +15,8 @@
     background-color: #fff;
     margin: 0 auto;
   }
-   /* Box Model Demo */
-   .bm-demo {
-    width: 200px;
-    height: 200px;
-    background-color: rgb(255, 166, 134);
-    padding: 20px;
-    border: 5px solid rgb(128, 0, 255);
-    margin: 20px;
+    
+  .header-image {
+    position: relative;
+    width: 100%;
   }
