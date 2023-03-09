@@ -25,5 +25,15 @@
   footer {
     background-color: #aad4cf;
   }
+  
+  .cube-image img {
+    width: 50%;
+    height: auto;
+  }
+  .cube-image {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+  }
 
   
