@@ -14,3 +14,6 @@ header, footer{
 .hobbie-list {
     list-style-type: square;
 }
+.hobbie-list li:nth-child(odd) {
+    background-color: rgb(255, 129, 129);
+}
