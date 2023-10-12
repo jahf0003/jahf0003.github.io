@@ -15,11 +15,14 @@ header, footer{
     list-style-type: square;
 }
 .hobbie-list li:nth-child(odd) {
-    background-color: rgb(255, 129, 129);
+    background-color: rgb(91, 202, 0);
 }
 nav ul li a {
     text-decoration: none;
 }
 nav ul {
     list-style-type: none;
+    background: rgb(91, 202, 0);
+    border-width: 4px;
+    border-style: solid;
 }
