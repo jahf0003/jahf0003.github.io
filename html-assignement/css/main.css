@@ -26,3 +26,6 @@ nav ul {
     border-width: 4px;
     border-style: solid;
 }
+a:hover {
+    background-color: rgb(246, 255, 0);
+}
