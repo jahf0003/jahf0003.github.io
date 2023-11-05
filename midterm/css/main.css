@@ -6,7 +6,7 @@
     align-items: left;
 }
 
-header {
+.header {
     background-image: url("../midterm/images/lone-starfish-wide.jpg");
     background-size: cover;
 }
@@ -17,3 +17,14 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+table {
+    width: 100%;
+    max-width: 900px;
+    margin: 10px;
+    background-color: #aad4cf;
+    line-height: 1;
+}
+  
+  
