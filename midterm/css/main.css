@@ -1,3 +1,19 @@
 /* header background image in here,
  the facts should be ul no pading means padding left 0
 , wraper the contact to learn more the links are inpages links and do not allign them  */
+.wrapper {
+    display: flex;
+    align-items: left;
+}
+
+header {
+    background-image: url("../midterm/images/lone-starfish-wide.jpg");
+    background-size: cover;
+}
+
+body {
+    font-family: 'Times New Roman', serif, Georgia, Times;
+    background-color: #aad4cf;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
