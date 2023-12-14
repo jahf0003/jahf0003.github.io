@@ -1,23 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
 
-{
-
-box-sizing: border-box;
-
-}
-
 body {
+    box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
     padding: 0.5em;
 }
 
 img {
-    width: 100;
+    width: 100%;
     height: auto;
 }
 
 .wrapper {
-
     max-width: 0.5em;
 }
 
@@ -30,16 +24,15 @@ span {
     display: inline-block;
     width: 100%;
     text-align: center;
-    padding; 2em;
-
+    padding: 2em;
 }
 
 ul {
     display: flex;
     justify-content: space-around;
-
 }
+
 nav ul li a {
-    text text-decoration: none;
+    text-decoration: none;
     color: white;
 }
