@@ -116,7 +116,7 @@ p {
 }
 
 
-.pingpong {
+.pingpong-pic {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -137,27 +137,46 @@ p {
   font-weight: 400;
 }
 
+
+.OUR h1 {
+  color: black;
+  padding: 0.4em;
+  font-size: 3.4em;
+  font-weight: bolder;
+}
+
+.our-services {
+  background-color: #FFE6AC;
+  padding-bottom: 10px;
+  margin: auto;
+  width: 95%;
+}
+
+.digital-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+
+.our-services h1 {
+  color: black;
+  padding: 0.6em;
+  font-size: 2.8em;
+  font-weight: bolder;
+}
+
 .our-services P {
   color: black;
   padding: 0.2em;
   font-weight: 400;
 }
 
-.OUR h1 {
-  color: black;
-  padding: 0.2em;
-  font-size: 3.4em;
-  font-weight: bolder;
-}
+.digital-plans {
 
-.digital {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 96%;
-  height: auto;
+  
 }
-
 
 @media (min-width: 760px) {
 }
