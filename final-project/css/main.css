@@ -174,9 +174,17 @@ p {
 }
 
 .digital-plans {
-
-  
+  display: block;
+  width: 210px;
+  height: 90px;
+  margin: 20px;
+  background-color: #222222;
+  color: white;
+  border: none;
+  font-size: 1.4em;
 }
+
+
 
 @media (min-width: 760px) {
 }
