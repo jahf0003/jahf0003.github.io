@@ -419,6 +419,44 @@ background-size: cover;
   font-weight: 400;
 }
 
+.AOT2 { 
+  background-color: #FFE6AC;
+  padding-bottom: 10px;
+  margin: auto;
+  width: 95%;
+}
+
+.OT2-pic {
+  display: block;
+  margin-top: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+
+
+.AOT2 h1 {
+  color: black;
+  padding: 0.2em;
+  font-size: 3em;
+  font-weight: bolder;
+}
+
+.AOT2 h2 {
+  color: black;
+  padding: 0.6em;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+.AOT2 P {
+  color: black;
+  padding: 0.2em;
+  font-weight: 400;
+}
+
+
 
 
 
