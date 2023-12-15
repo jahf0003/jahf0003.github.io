@@ -456,7 +456,29 @@ background-size: cover;
   font-weight: 400;
 }
 
+.contact-container {
+  width: 50%;
+  margin-right: auto;
+  margin-left: 0;
+}
 
+.contact-heading, .message-heading {
+  text-align: center;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field, .message-field {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.message-field {
+  height: 100px;
+}
 
 
 
