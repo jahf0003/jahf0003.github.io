@@ -3,13 +3,20 @@
 body {
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
-    padding: 0.5em;
 }
 
-img {
-    width: 100%;
-    height: auto;
-}
+.header-box {
+    background-color: #C78B07;
+    height: 200px;
+  }
+
+  .logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+  }
 
 
 header {
