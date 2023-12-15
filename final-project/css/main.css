@@ -377,6 +377,51 @@ background-size: cover;
 }
 
 
+.AOT { 
+  background-color: #FFE6AC;
+  padding-bottom: 10px;
+  margin: auto;
+  width: 95%;
+}
+
+.OT-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+
+.OT h1 {
+  color: black;
+  padding: 0.2em;
+  font-size: 3em;
+  font-weight: bolder;
+}
+
+.AOT h1 {
+  color: black;
+  padding: 0.2em;
+  font-size: 3em;
+  font-weight: bolder;
+}
+
+.AOT h2 {
+  color: black;
+  padding: 0.6em;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+.AOT P {
+  color: black;
+  padding: 0.2em;
+  font-weight: 400;
+}
+
+
+
+
 
 @media (min-width: 760px) {
 }
