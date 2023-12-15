@@ -344,6 +344,39 @@ p {
   font-size: 1.4em;
 }
 
+.ov { 
+background-image: url('/images/vision.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.ov h1 {
+  color: rgb(255, 255, 255);
+  padding: 0.6em;
+  font-size: 2.4em;
+  font-weight: bolder;
+}
+
+.ov P {
+  color: rgb(255, 255, 255);
+  font-size: 1.3em;
+  padding: 0.2em;
+  font-weight: 400;
+}
+
+
+.learn-more {
+  display: block;
+  width: 200px;
+  height: 100px;
+  margin: 25px;
+  background-color: rgba(47, 43, 43, 0.8);
+  color: white;
+  border: 1px solid yellow;
+  font-size: 1.4em;
+}
+
+
 
 @media (min-width: 760px) {
 }
