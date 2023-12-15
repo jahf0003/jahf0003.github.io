@@ -224,6 +224,46 @@ p {
   font-size: 1.4em;
 }
 
+.vp {
+  background-color: #FFE6AC;
+  padding-bottom: 10px;
+  margin: auto;
+  width: 95%;
+}
+
+.vp h1 {
+  color: black;
+  padding: 0.6em;
+  font-size: 2.8em;
+  font-weight: bolder;
+}
+
+.vp P {
+  color: black;
+  padding: 0.2em;
+  font-weight: 400;
+}
+
+.vp-pic {
+  display: block;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+
+.video-plans {
+  display: block;
+  width: 200px;
+  height: 100px;
+  margin: 25px;
+  background-color: #222222;
+  color: white;
+  border: none;
+  font-size: 1.4em;
+}
+
 
 
 @media (min-width: 760px) {
