@@ -137,6 +137,26 @@ p {
   font-weight: 400;
 }
 
+.our-services P {
+  color: black;
+  padding: 0.2em;
+  font-weight: 400;
+}
+
+.OUR h1 {
+  color: black;
+  padding: 0.2em;
+  font-size: 3.4em;
+  font-weight: bolder;
+}
+
+.digital {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 96%;
+  height: auto;
+}
 
 
 @media (min-width: 760px) {
